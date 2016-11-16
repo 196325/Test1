@@ -1,2 +1,2 @@
 # Test1
-Created for testing purpose
+A default readme file to be created while creating first branch.
